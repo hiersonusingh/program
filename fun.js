@@ -47,30 +47,30 @@ because of issue in block scoper and functional scope
 
 // console.log(typeof null); //object
 
-let myname = "bhavesh";
+// let myname = "bhavesh";
 
-console.log(typeof(myname));
+// console.log(typeof(myname));
 
-let myAge = 25;
+// let myAge = 25;
 
-console.log(typeof myAge);
+// console.log(typeof myAge);
 
-let isAdmin = "bhavesh";
+// let isAdmin = "bhavesh";
 
-let booleanIsLoggedIn = Boolean(isAdmin);
+// let booleanIsLoggedIn = Boolean(isAdmin);
 
-console.log(booleanIsLoggedIn);
+// console.log(booleanIsLoggedIn);
 
 //Boolean : 1 => true, 0 => false
 
-let myNumber = 257;
-console.log(typeof myNumber);
+// let myNumber = 257;
+// console.log(typeof myNumber);
 
-let stringNumber = String(myNumber);
+// let stringNumber = String(myNumber);
 
-console.log(stringNumber);
+// console.log(stringNumber);
 
-console.log(typeof stringNumber);
+// console.log(typeof stringNumber);
 
 // echo "# program" >> README.md
 // git init
@@ -79,3 +79,51 @@ console.log(typeof stringNumber);
 // git branch -M main
 // git remote add origin https://github.com/hiersonusingh/program.git
 // git push -u origin main
+
+
+// let myValue = 25;
+// let changedValue = -myValue;
+
+// console.log(changedValue);
+
+// console.log(25+25);
+// console.log(25-25);
+// console.log(25*25);
+// console.log(25/25);
+// console.log(25%25);
+
+// let myName = "Bhavesh";
+// let myAge = 25;
+
+// let myData = myName + myAge
+
+// console.log(myData); //concatenation
+
+// console.log("1" + 25);
+// console.log(25 + "1");
+// console.log("1" + 2 + "2");
+
+// console.log((3+4) * 5 % 3);
+
+// console.log(+true);
+// console.log(+"");
+
+// let num1, num2, num3;
+
+// num1 = num2 = num3 = 25+25;
+
+// console.log(num1);
+// console.log(num2);
+// console.log(num3);
+
+// let gameCounter = 100;
+
+// ++gameCounter;
+// console.log(gameCounter);
+
+
+
+// let gameCounter = 100;
+
+// gameCounter++;
+// console.log(gameCounter);
